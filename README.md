@@ -13,4 +13,5 @@ points:
 * use a simple dictionary as the predicate C, as it is a simple demo which does not need a NN.
 * I have find a good way to imeplement a nicer forall and exists quantifier macro. And Zygote (AD in Julia) is not so good at list comprehension
 
+![optimization by step](./ltn_clustering_demo.gif)
 
