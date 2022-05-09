@@ -4,7 +4,7 @@ Implement the clustering demo as in [Logic Tensor Networks](https://arxiv.org/ab
 
 It is a rather simple demo
 
-The data set is a set of 4 points (in one dimension): [1,2,3,10]. We say [1,2,3] should be in one clustering and the [10] should be its own clustering.
+The data set is a set of 4 points (in one dimension): [1,2,3,10]. We say [1,2,3] should be in one cluster and the [10] should be its own cluster.
 
 The LTN approach to clustering is essentially a density-based clustering algorithm, though the objective is defined by a set of axioms and then made differentiable in real numbers.
 
